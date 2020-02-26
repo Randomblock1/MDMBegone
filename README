@@ -1,0 +1,3 @@
+Remove Mobile Device Management with only SSH access! (and a jailbreak, duh)
+This will remove all profiles from your device. Developer certificates will not be removed, just untrusted.
+Resetting or restoring your device will reinstall MDM, so don’t do that.
